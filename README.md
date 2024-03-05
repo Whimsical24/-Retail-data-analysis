@@ -14,9 +14,9 @@ Data Availability
 
 • The data set for the analysis comprises of three tables
 
-Customer: Customer Demographics,
+Customer: Customer Demographics
 
-Transactions: Customer Transaction Details,
+Transactions: Customer Transaction Details
 
 Product Category: Product category and sub category information
 
