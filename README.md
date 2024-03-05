@@ -1,4 +1,4 @@
-# -Retail-data-analysis
+# Retail-data-analysis
 
 Tool used for analysis
 
